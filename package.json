@@ -1,0 +1,11 @@
+{
+  "name": "@pdw.io/illustrations",
+  "version": "1.0.0",
+  "description": "Selected illustrations by Pim de Wit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pimdewit/illustrations.git"
+  },
+  "author": "Pim de Wit <https://pdw.io>",
+  "license": "https://github.com/pimdewit/illustrations/blob/master/LICENSE.md"
+}
